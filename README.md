@@ -4,6 +4,14 @@
 
 **소제목** Rule The Phone
 
+**맡은 역할** Android Studio를 이용한 어플리케이션 개발
+
 ![image](https://user-images.githubusercontent.com/45071833/102364835-3e07bb00-3ffa-11eb-831c-816015c48ab3.png)
 
 ![image](https://user-images.githubusercontent.com/45071833/102364843-4102ab80-3ffa-11eb-856f-a3149ad0322b.png)
+
+## 알고리즘 설계
+
+![image](https://user-images.githubusercontent.com/45071833/102365716-3563b480-3ffb-11eb-8593-11c2b9d515a8.png)
+
+![image](https://user-images.githubusercontent.com/45071833/102365737-398fd200-3ffb-11eb-83f5-49a5b86e84b9.png)
