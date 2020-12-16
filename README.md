@@ -11,9 +11,9 @@
 
 ### 어플리케이션 UI
 
-![image](https://user-images.githubusercontent.com/45071833/102364835-3e07bb00-3ffa-11eb-831c-816015c48ab3.png)
+![최종 UI](https://user-images.githubusercontent.com/45071833/102367515-372e7780-3ffd-11eb-8522-d82cd868916b.JPG)
 
-![image](https://user-images.githubusercontent.com/45071833/102364843-4102ab80-3ffa-11eb-856f-a3149ad0322b.png)
+
 
 ## 알고리즘 설계
 
