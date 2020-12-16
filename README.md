@@ -21,9 +21,11 @@
 
 ## Gyroscope Test
 
+![image](https://user-images.githubusercontent.com/45071833/102366579-29c4bd80-3ffc-11eb-8f58-89d3d90396ff.png)
+
 ![image](https://user-images.githubusercontent.com/45071833/102366540-20d3ec00-3ffc-11eb-862e-e7eef99f5569.png)
 
-![image](https://user-images.githubusercontent.com/45071833/102366579-29c4bd80-3ffc-11eb-8f58-89d3d90396ff.png)
+
 사용한 코드는 위를 참조
 
 자이로.. 애를 많이 먹었다.
