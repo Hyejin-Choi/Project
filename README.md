@@ -14,3 +14,12 @@
 ## 알고리즘 설계
 
 ![image](https://user-images.githubusercontent.com/45071833/102365737-398fd200-3ffb-11eb-83f5-49a5b86e84b9.png)
+
+## Gyroscope Test
+
+
+
+## Hall Sensor Test
+
+![image](https://user-images.githubusercontent.com/45071833/102366123-9be8d280-3ffb-11eb-8093-072124f688c8.png)
+
