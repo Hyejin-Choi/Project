@@ -42,11 +42,10 @@
 
 - 고구려 시절에 만든 UI
 
-![image](https://user-images.githubusercontent.com/45071833/102367158-c71ff180-3ffc-11eb-98a1-20fd7d7896d0.png)
+![image](https://user-images.githubusercontent.com/45071833/102367259-e6b71a00-3ffc-11eb-8dfa-98ef3d7d8fe2.png)
 
 - 그나마 최근
 
 ![image](https://user-images.githubusercontent.com/45071833/102366818-6abcd200-3ffc-11eb-92e4-bbceea3ba9ec.png)
 
-![image](https://user-images.githubusercontent.com/45071833/102366829-6f818600-3ffc-11eb-8217-f50959eaea11.png)
 
