@@ -21,14 +21,20 @@
 
 ## Gyroscope Test
 
+![image](https://user-images.githubusercontent.com/45071833/102366540-20d3ec00-3ffc-11eb-862e-e7eef99f5569.png)
 
+![image](https://user-images.githubusercontent.com/45071833/102366579-29c4bd80-3ffc-11eb-8f58-89d3d90396ff.png)
+사용한 코드는 위를 참조
 
+자이로.. 애를 많이 먹었다.
 
 ## Hall Sensor Test
 
 ![image](https://user-images.githubusercontent.com/45071833/102366123-9be8d280-3ffb-11eb-8093-072124f688c8.png)
 
-사용한 코드는 위에서 참조
+![image](https://user-images.githubusercontent.com/45071833/102366449-026df080-3ffc-11eb-9e92-5a0cd17dc069.png)
+
+사용한 코드는 위를 참조
 
 ## Alarm Test
 
