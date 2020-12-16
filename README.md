@@ -38,5 +38,15 @@
 
 사용한 코드는 위를 참조
 
-## Alarm Test
+## UI의 변천사
+
+- 고구려 시절에 만든 UI
+
+![image](https://user-images.githubusercontent.com/45071833/102367158-c71ff180-3ffc-11eb-98a1-20fd7d7896d0.png)
+
+- 그나마 최근
+
+![image](https://user-images.githubusercontent.com/45071833/102366818-6abcd200-3ffc-11eb-92e4-bbceea3ba9ec.png)
+
+![image](https://user-images.githubusercontent.com/45071833/102366829-6f818600-3ffc-11eb-8217-f50959eaea11.png)
 
