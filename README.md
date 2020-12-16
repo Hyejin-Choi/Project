@@ -49,3 +49,7 @@
 ![image](https://user-images.githubusercontent.com/45071833/102366818-6abcd200-3ffc-11eb-92e4-bbceea3ba9ec.png)
 
 
+알람변천사랑 바보같은 코딩 실수.. 다음에 수정해서 올릴 것
+
+
+
